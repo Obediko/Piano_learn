@@ -1,110 +1,168 @@
-# Video Library
+# Video Library and Source Map
 
-This course uses one main source family and several supplementary teachers. The point is not to collect videos. Each video has a defined function in the curriculum.
+This course uses videos as teaching inputs, not as the curriculum itself. Every video must have a defined skill target and a practice task.
 
-## A. Main course sources
+## Source confidence rule
 
-### 1. Original playlist supplied by learner
+Some exact videos are directly identified below. The original playlist and Chris Ebute channel are broader source families. Do not invent a title or timestamp if it cannot be verified. When using a channel/playlist lesson, match it to the weekly skill objective, then return to the keyboard.
+
+## A. Primary source family
+
+### Original playlist supplied by learner
 https://youtube.com/playlist?list=PLCBp_MZ8xaeE
 
-Use this as the familiar teaching style and as the default sequence when the weekly curriculum says **Core playlist lesson**. Do not binge-watch. Watch only the lesson relevant to that week's skill, then leave YouTube and practise.
+Role: familiar teaching style and reinforcement source.
 
-### 2. Piano Tutorials with Chris Ebute
+Use when the playlist contains a lesson matching the current skill:
+- keyboard geography;
+- scales;
+- triads;
+- progressions;
+- inversions;
+- worship/gospel application.
+
+Do not binge-watch sequentially just because a lesson is next in the playlist.
+
+### Piano Tutorials with Chris Ebute
 Channel: https://youtube.com/@pianotutorialswithchrisebute
 
-Chris Ebute is particularly useful for gospel-by-ear learning, practical harmony, scales, chords and applied keyboard vocabulary. Use his channel heavily from the chord-and-progression phase onward.
+Role: practical gospel-by-ear playing, harmony, melody/chord integration and richer vocabulary.
 
-#### Chris Ebute: Melody With Chords
-https://www.youtube.com/watch?v=Qp4VqcQ9Po4
+Best use: from the chord/progression phase onward, especially when the weekly objective is functional playing rather than notation study.
 
-Use in Weeks 19-21. Goal: coordinate melody and harmony, avoid treating the right hand as either melody-only or block-chords-only.
+## B. Exact mapped videos
 
-#### Chris Ebute: Understanding Advanced Chords, Part 1
-https://www.youtube.com/watch?v=XmX0si6UWJs
-
-Use only after triads, inversions and sevenths are secure, around Weeks 20-23. The goal is not to memorise fancy shapes but to understand how extensions grow from simpler chord structures.
-
-## B. Foundation supplements
-
-### Pianote: How To Play Piano, Beginner Piano Lesson
-https://www.youtube.com/watch?v=tEtukfFv3Wk
-
-Best for Weeks 1-2. Covers keyboard orientation, five-note scale, first real scale, a first song, treble clef, rhythm and basic chord reading.
-
-### Pianote: Your First Piano Lesson
-https://www.youtube.com/watch?v=4__cIAvrWHw
-
-Best for Week 1. It moves quickly from keyboard geography to five-finger position and a simple chord progression. This is deliberately rewarding early in the course.
-
-### Pianote: How to Read Notes the Easy Way
-https://www.youtube.com/watch?v=PyOKefHURsg
-
-Use in Weeks 3-6 and revisit later. Focus on landmark notes, patterns and intervals rather than rote acronyms.
-
-### Bill Hilton: All the Basic Piano Chords in One Epic Tutorial
-https://www.youtube.com/watch?v=C1i-cFx7__M
-
-Do not watch the whole thing at once. Use chapters progressively:
-- Weeks 4-7: major and minor triads
-- Weeks 10-13: dominant 7, minor 7, major 7
-- Weeks 17-22: 6, 9, add9, sus, diminished and augmented chords
+| Resource | Exact link | Main use | Course timing |
+|---|---|---|---|
+| Pianote, first piano lesson | https://www.youtube.com/watch?v=4__cIAvrWHw | keyboard geography, first position, immediate playing | Week 1 |
+| Pianote, beginner piano lesson | https://www.youtube.com/watch?v=tEtukfFv3Wk | basic keyboard, scale, rhythm, first-song concepts | Weeks 1-2 |
+| Pianote, note reading | https://www.youtube.com/watch?v=PyOKefHURsg | landmark notes, intervals, basic reading | Weeks 1-6, then review |
+| Bill Hilton, basic piano chords | https://www.youtube.com/watch?v=C1i-cFx7__M | triads, 7ths, extensions | Weeks 4-7, 14-17, 23 |
+| Chris Ebute, Melody With Chords | https://www.youtube.com/watch?v=Qp4VqcQ9Po4 | melody + harmony coordination | Weeks 19-21 |
+| Chris Ebute, Understanding Advanced Chords Part 1 | https://www.youtube.com/watch?v=XmX0si6UWJs | extensions after triads/7ths are secure | Weeks 20-23 |
 
 ## C. Supplementary concept sources
 
-### MangoldProject beginner piano course overview
+### MangoldProject beginner course overview
 https://www.classcentral.com/course/youtube-piano-lessons-for-beginners-102467
 
-Useful sequence: simple chords, accompaniment patterns, left hand, piano strumming, inversions, voice leading and sustain pedal. Use when a second explanation is needed.
+Use for second explanations of:
+- simple chords;
+- accompaniment patterns;
+- left-hand work;
+- inversions;
+- voice leading;
+- sustain pedal.
 
 ### MangoldProject Piano Quickies
 https://www.classcentral.com/course/youtube-piano-quickie-bite-sized-piano-lessons-102470
 
-Use as short theory refreshers for notes, semitones, intervals, scales, triads, seventh chords and inversions.
+Use as short theory refreshers for:
+- notes/semitones;
+- intervals;
+- scales;
+- triads;
+- seventh chords;
+- inversions.
 
-### Pianote: beginner practice guidance
+### Pianote beginner practice guidance
 https://www.pianote.com/blog/4-things-a-beginner-should-do/
 
-Useful in Month 1 for keyboard geography, five-finger work and finger-to-brain coordination.
+Use Month 1 for keyboard geography, five-finger work and finger-to-brain coordination.
 
-### Pianote: note-reading explanation
+### Pianote note-reading explanation
 https://www.pianote.com/blog/how-to-read-notes/
 
-Use alongside the YouTube note-reading lesson. Reading is a supporting skill in this curriculum, not the dominant pathway.
+Use alongside the note-reading video. Reading supports this curriculum but does not dominate it.
 
-### Pianote: first gospel lesson
+### Pianote gospel lesson
 https://www.pianote.com/blog/?p=7490
 
-Use around Weeks 15-18. It introduces a basic gospel progression and starts adding gospel colour, including walk-ups and harmonic decoration.
+Use around Weeks 15-18 for a first controlled step into gospel movement and harmonic decoration.
 
-### Piano With Jonny: Gospel 6-Step Beginner Guide
+### Piano With Jonny, Gospel 6-Step Beginner Guide
 https://pianowithjonny.com/piano-lessons/play-gospel-piano-the-6-step-beginner-guide/
 
-Use in Weeks 18-22. It demonstrates a progression from simple harmony toward passing chords, richer voicings and rhythmic gospel texture. Treat the advanced parts as exposure, not immediate mastery.
+Use Weeks 18-22. Treat advanced material as exposure unless the basic progression remains stable.
 
-### Piano Lesson With Warren: 1-5-6-4 Gospel Passing Chords
+### Piano Lesson With Warren, 1-5-6-4 Gospel Passing Chords
 https://pianolessonwithwarren.com/gospel-piano-passing-chords-for-the-1-5-6-4-progression/
 
-Use in Weeks 21-24 after the basic 1-5-6-4 progression is fluent. Learn the destination chords first; passing movement comes second.
+Use Weeks 21-24 after 1-5-6-4 is already fluent.
 
-## D. How to choose a video on any given day
+## D. Phase-by-phase source map
 
-1. Use the curriculum's named primary video first.
-2. If the explanation is clear, stop searching and practise.
-3. If it is unclear after one careful viewing, use one supplementary source.
-4. Do not watch more than about 15-20 minutes of instruction in a 60-minute session.
-5. A video earns a place in the course only if you can name the skill it is teaching.
+### Weeks 1-4: absolute foundation
+Priority:
+1. Pianote first lesson
+2. Pianote beginner lesson
+3. original playlist where topic matches
+4. Bill Hilton only for major/minor chord section
+
+Avoid advanced gospel videos here.
+
+### Weeks 5-8: keys, progressions, inversions
+Priority:
+1. original playlist/Chris Ebute for practical chord application
+2. MangoldProject for inversion/voice-leading clarification
+3. Bill Hilton for chord construction
+
+### Weeks 9-13: number system and accompaniment
+Priority:
+1. Chris Ebute channel for practical gospel/worship chord application
+2. original playlist for reinforcement
+3. MangoldProject if accompaniment mechanics remain unclear
+
+### Weeks 14-17: seventh chords and gospel vocabulary
+Priority:
+1. Bill Hilton for chord construction
+2. Pianote gospel lesson for applied movement
+3. Chris Ebute for practical application
+
+### Weeks 18-22: ear, passing movement, melody plus chords
+Priority:
+1. Chris Ebute Melody With Chords
+2. Piano With Jonny
+3. Warren 1-5-6-4 lesson
+4. original playlist if a relevant applied lesson exists
+
+### Weeks 23-26: extensions, arrangement and performance
+Priority:
+1. Chris Ebute advanced chords
+2. earlier videos used only as targeted review
+3. more keyboard time, less instructional video time
+
+By Month 6, video consumption should be lower than Month 1.
 
 ## E. Video-learning protocol
 
-For any lesson:
+For every lesson:
+1. state the skill you are trying to learn in one sentence;
+2. watch one short explanation;
+3. pause;
+4. reproduce the smallest unit five correct times;
+5. combine units;
+6. close YouTube;
+7. play from memory;
+8. apply to current repertoire;
+9. log whether it worked.
 
-1. Watch the first explanation without playing.
-2. Rewind and reproduce the smallest unit.
-3. Pause the video.
-4. Play the unit five correct times slowly.
-5. Combine units.
-6. Close YouTube.
-7. Play from memory.
-8. Apply the idea to the week's chorus.
+## F. Maximum viewing time
 
-This prevents tutorial dependence.
+On a 60-minute practice day:
+- maximum normal instructional viewing: 15-20 minutes;
+- minimum keyboard time: 40 minutes.
+
+On a 30-minute practice day:
+- use no new video unless the lesson cannot proceed without it;
+- prioritise technique, repair and repertoire.
+
+## G. When a video explanation does not work
+
+After one careful viewing:
+- do not watch five more random creators;
+- choose one alternate source from this file;
+- compare the explanation;
+- return to the keyboard.
+
+If the skill still fails, use `RECOVERY.md`. The problem may be tempo, coordination or fingering rather than explanation.
